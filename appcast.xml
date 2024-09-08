@@ -3,12 +3,12 @@
     <channel>
         <title>LifeFlix</title>
         <item>
-            <title>5.0.2</title>
-            <pubDate>Mon, 09 Sep 2024 00:15:32 +0900</pubDate>
-            <sparkle:version>2024.15.08</sparkle:version>
-            <sparkle:shortVersionString>5.0.2</sparkle:shortVersionString>
+            <title>5.0.3</title>
+            <pubDate>Mon, 09 Sep 2024 02:03:08 +0900</pubDate>
+            <sparkle:version>2024.10.09</sparkle:version>
+            <sparkle:shortVersionString>5.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sandunrajitha/update-test/releases/download/prd/LifeFlix.dmg" length="9890424" type="application/octet-stream" sparkle:edSignature="pY9gskeG1EX1ZI6yHNpj2p3seVr5d6U/JcifZMyz5kVWarpOf4lRaBBewt0el4P5ncSoJdpc+3ZmCCpUdXJrBg=="/>
+            <enclosure url="https://github.com/sandunrajitha/update-test/releases/download/prd_5.0.3/LifeFlix.dmg" length="9890417" type="application/octet-stream" sparkle:edSignature="0gSwv3ftHfZ86AOYxZcEpbWXBpRww01KYNVvAaTocWBukmsIGrdJRIreadZED0bFnGIkNbBpoG+pb4fxL6y/BA=="/>
         </item>
     </channel>
 </rss>
