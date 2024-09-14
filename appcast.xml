@@ -8,7 +8,7 @@
             <sparkle:version>2024.16.08</sparkle:version>
             <sparkle:shortVersionString>5.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sandunrajitha/update-test/releases/download/prd_5.0.3/LifeFlix.dmg" length="9890418" type="application/octet-stream" sparkle:edSignature="t6nBwPLTaER1/axKO378nCcoWvArypzv/aTTH74TsF+LbRsJec0aILknk3gc/r8NEiyfy442MJyzukr0HrnVCQ=="/>
+            <enclosure url="https://updates.lifeflix.com/v5/LifeFlix%205.0.3/LifeFlix.dmg" length="9890418" type="application/octet-stream" sparkle:edSignature="t6nBwPLTaER1/axKO378nCcoWvArypzv/aTTH74TsF+LbRsJec0aILknk3gc/r8NEiyfy442MJyzukr0HrnVCQ=="/>
         </item>
     </channel>
 </rss>
